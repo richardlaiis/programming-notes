@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "699f5198ce8b4af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f8513587dee025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3d2a61edc8e25b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git 分支.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 分支"
+            }
+          },
+          {
+            "id": "5c773429632573c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git 分支.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 分支"
+            }
+          },
+          {
+            "id": "138a3af45311b157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP"
+            }
+          },
+          {
+            "id": "9eb99afe66053518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic elements of CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic elements of CSS"
+            }
+          },
+          {
+            "id": "1582c69977e47653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complexity"
+            }
+          },
+          {
+            "id": "21f1f717f7f20a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lambda expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lambda expression"
+            }
+          },
+          {
+            "id": "19d16957f6dcb084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS basic syntax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS basic syntax"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e193ec987d0dcf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f4ab8535e3f641c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60343d568898e0e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c5e1bc8e43cfcac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "351a99bfa3822d7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cb6f6b28c223665",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdf42f32328974e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f871436910850ca2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6ae5a8c2086fc727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "46fec0ec67f72aaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78a5a8e093b9697a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "19d16957f6dcb084",
+  "lastOpenFiles": [
+    "Recording 20241229162726.m4a",
+    "Recording 20241229162719.m4a",
+    "README.md",
+    "lambda expression.md",
+    "JS basic syntax.md",
+    "Complexity.md",
+    "Basic elements of CSS.md",
+    "CSS.md",
+    "Home.md",
+    "DP.md",
+    "git 分支.md",
+    "Krustal.md",
+    "VScode.md",
+    "Hello.md",
+    "Graph.md",
+    "C tips.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

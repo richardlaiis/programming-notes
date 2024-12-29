@@ -1,3 +1,4 @@
+# Javascript basic syntax
 ## array
 
 `slice`: 取出陣列 \[n, m) 區間的內容
@@ -16,4 +17,21 @@ var ary = arr.splice(n, m, a, b, c, ...);
 // m: 刪除個數，若為 0 就是插入
 // a, b, c: 欲插入的元素
 ```
+
+## function
+
+#### callback
+
+```js
+function calc(x, y, callback) {
+	return callback(x, y);
+};
+function foo(x, y) {
+	return (x == y);
+};
+console.log(calc(5, 6, foo));
+```
+
+callback function 可以避免 javascript asynchronous 導致的一些問題。
+## Object
 
