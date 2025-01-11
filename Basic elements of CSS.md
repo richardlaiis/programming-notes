@@ -19,7 +19,7 @@
 	</body>
 </html>
 ```
-## import
+## imporkt
 
 ```html
 <link rel="stylesheet" href="style.css">
@@ -35,4 +35,20 @@ p {
 	font-weight: bold; /*normal, lighter, bolder*/
 	font-family: "Cactus Classical Serif", serif;
 }
+```
+
+## grid
+
+```css
+.container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 15px;
+}
+.item {
+	background: #FAFFC5;
+	color: #3A3960;
+	padding: 10px;
+}
+
 ```
